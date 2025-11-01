@@ -1,7 +1,7 @@
 # Quanlearning
 
 ## 项目简介
-Quanlearning是一个用于学习量化交易的开源项目。本仓库旨在提供量化交易相关的学习资源、示例代码和实践项目，帮助初学者和进阶学习者掌握量化交易的核心概念和技术。
+Quanlearning是一个本人用于学习量化交易的开源项目。本仓库旨在提供量化交易相关的学习资源、示例代码和实践项目，帮助本人掌握量化交易的核心概念和技术。
 
 ## 项目目标
 - 提供通俗易懂的量化交易入门教程
@@ -14,17 +14,16 @@ Quanlearning是一个用于学习量化交易的开源项目。本仓库旨在�
 - `docs/`: 学习文档和教程
 - `strategies/`: 量化交易策略实现
 - `utils/`: 工具函数和辅助模块
-- `data/`: 数据处理相关代码
+- `data/`: 数据处理相关代码，数据都下载到 /media/mu/D/ubuntu/quan_data了
 - `backtest/`: 回测框架和示例
 
 ## 环境配置
 ```bash
 # 克隆仓库
-git clone https://github.com/您的用户名/Quanlearning.git
+git clone https://github.com/guankou/Quanlearning.git
 cd Quanlearning
 
-# 安装依赖
-pip install -r requirements.txt
+
 ```
 
 ## 使用方法
